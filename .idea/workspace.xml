@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdab0f47-82f7-436c-8f74-18f15ec17ac6" name="Changes" comment="Курсовой первый завершен">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="bdab0f47-82f7-436c-8f74-18f15ec17ac6" name="Changes" comment="course_projoct1 int">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "zaurgulin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/zaurgulin/course_project1.git",
+    "accountId": "feb84a8a-5232-4729-b2a3-5cab631c2dca"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -40,7 +52,7 @@
     "Python.main.executor": "Run",
     "Python.test_utils.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "course__project1",
+    "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -160,11 +172,28 @@
       <option name="project" value="LOCAL" />
       <updated>1748419404144</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Курсовой первый завершен">
+      <option name="closed" value="true" />
+      <created>1748420401018</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748420401018</updated>
+    </task>
+    <task id="LOCAL-00005" summary="course_projoct1 int">
+      <option name="closed" value="true" />
+      <created>1748420711235</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748420711235</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Курсовой первый завершен" />
-    <option name="LAST_COMMIT_MESSAGE" value="Курсовой первый завершен" />
+    <MESSAGE value="course_projoct1 int" />
+    <option name="LAST_COMMIT_MESSAGE" value="course_projoct1 int" />
   </component>
 </project>
